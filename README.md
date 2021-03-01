@@ -1,1 +1,2 @@
 # Distracted-Driver-Detection
+Using the dataset from https://www.kaggle.com/c/state-farm-distracted-driver-detection which consisted of driver images in car and corresponding labels for 10 nos. categories namely safe driving, texting - right, talking on the phone - right, texting - left, talking on the phone - left, operating the radio, drinking, reaching behind, hair and makeup, talking to passenger, built classification models using a) Transfer Learning and b) Convolutional Neural Networks to predict the category for that image.
